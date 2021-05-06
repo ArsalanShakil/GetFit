@@ -1,5 +1,7 @@
 # GetFit
 
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/40695548/117286452-e4514180-ae71-11eb-8a9b-ba8a00d0ba10.gif)
+
 ### Code Overview
  [![Code Overview Badge](https://github.com/ArsalanShakil/GetFit/blob/main/ezgif.com-gif-maker.gif)](#)
 
@@ -19,4 +21,4 @@
 
 ![Group 81](https://user-images.githubusercontent.com/40695548/117284661-c08cfc00-ae6f-11eb-87a8-60c742e58793.png)
 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/40695548/117285765-0a2a1680-ae71-11eb-9ab4-ec1409ca95d0.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/40695548/117285980-52493900-ae71-11eb-848e-7363d34f9603.gif)
