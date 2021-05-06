@@ -11,7 +11,5 @@
 ![App Overview Badge](https://user-images.githubusercontent.com/40695548/117280319-275be680-ae6b-11eb-81a2-e18aebe2e958.gif)
 
 
-![Group 91 (1)](https://user-images.githubusercontent.com/40695548/117283760-c0d8c780-ae6e-11eb-8b30-da89ee4bd4ae.png)
+![Group 79](https://user-images.githubusercontent.com/40695548/117284408-7441bc00-ae6f-11eb-8d04-e92d1f4b20db.png)
 
-![Group 91](https://user-images.githubusercontent.com/40695548/117284026-157c4280-ae6f-11eb-808c-2c0da65eb807.png)
-![Group 91 (1)](https://user-images.githubusercontent.com/40695548/117284046-1c0aba00-ae6f-11eb-9b3b-673dde943259.png)
