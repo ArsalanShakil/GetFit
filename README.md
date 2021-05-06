@@ -10,7 +10,7 @@
 ![App Overview Badge](https://user-images.githubusercontent.com/40695548/117280029-df3cc400-ae6a-11eb-8301-3cc36a42bcca.gif)
 ![App Overview Badge](https://user-images.githubusercontent.com/40695548/117280319-275be680-ae6b-11eb-81a2-e18aebe2e958.gif)
 
-
+### Wireframes made by me(Figma)
 ![Group 79](https://user-images.githubusercontent.com/40695548/117284408-7441bc00-ae6f-11eb-8d04-e92d1f4b20db.png)
 
 ![Group 80](https://user-images.githubusercontent.com/40695548/117284521-963b3e80-ae6f-11eb-9152-735bad08be8c.png)
