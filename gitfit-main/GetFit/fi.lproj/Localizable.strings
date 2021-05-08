@@ -1,0 +1,100 @@
+/* 
+ Localizable.strings
+ GetFit
+ 
+ Created by iosdev on 5.5.2021.
+ 
+ */
+
+// LoginViewController.swift
+"Login to GetFit" = "Kirjaudu GetFitiin";
+"Signup?" = "Kirjaudu?";
+"Login" = "Kirjaudu sisään";
+"Please fill in all fields." = "Täytä kaikki kentät.";
+"Wrong Username or Password" = "Väärä käyttäjätunnus tai salasana";
+
+// SignUpViewController.swift
+"SignUp to GetFit" = "Rekisteröidy saadaksesi kunnon";
+"Signup" = "Kirjaudu";
+"Login?" = "Kirjaudu sisään?";
+"Please fill in all fields." = "Täytä kaikki kentät.";
+"Use 8 characters(including special & a number)" = "Käytä 8 merkkiä (mukaan lukien erikoismerkki ja numero)";
+
+// OnboardingViewController.swift
+"Welcome" = "Tervetuloa";
+"The best health assistant for all your needs." = "Paras terveysavustaja kaikkiin tarpeisiisi.";
+"Diets" = "Ruokavalion";
+"Browse through our collection of meals." = "Selaa kokoelmiamme.";
+"Progress" = "Edistyminen";
+"Track your progress to continue your fitness journey." = "Seuraa edistymistäsi jatkaaksesi kuntomatkaa.";
+
+
+// FeedViewController.swift
+"Your Activity" = "Oma toiminta";
+"Weekly Activity" = "Viikkotoiminta";
+"Steps:" = "Askeleet:";
+"Distance:" = "Etäisyys:";
+"CO2 emissions:" = "CO2-päästöt:";
+"start tracking" = "aloita seuranta";
+"workout" = "treenata";
+
+
+
+// WorkoutViewController.swift
+
+"4 Day Barbell Only Workout" = "Vain 4 päivän barbell-harjoitus";
+"Main Goal Build Muscle" = "Päätavoitteen lihas";
+"Are you stuck without a squat rack and bench? This 4-day upper/lower split will show you exactly how to get strong, and add muscle with only a barbell at your disposal." = "Oletko jumissa ilman kyykky telineitä ja penkkiä? Tämä 4 päivän ylempi / alempi jako näyttää tarkalleen kuinka saada vahvaa ja lisätä lihaksia vain sauvalla käytettävissäsi.";
+
+"Full Body Fat Loss Workout" = "Koko kehon rasvan menetys";
+"Lose Fat" = "Menettää rasvaa";
+"There's a faster way to fat loss than the treadmill. These fat burning workouts are designed to help you start making progress with just your own body weight." = "Rasvanpudotukseen on nopeampi tapa kuin juoksumatto. Nämä rasvanpolttoa harjoittavat treenit on suunniteltu auttamaan sinua edistymään pelkällä omalla painolla.";
+
+"12 Week Full Body Workout" = "12 viikon kokovartaloharjoittelu";
+"Build Muscle" = "Rakentaa lihasta";
+"A 12 week full body beginner workout routine designed to introduce you to a range of gym equipment and basic bodybuilding exercises in under 60 minutes." = "12 viikon koko kehon aloittelijoille tarkoitettu harjoitusrutiini, jonka tarkoituksena on tutustuttaa sinut kuntosalilaitteisiin ja kehonrakennuksen perusharjoituksiin alle 60 minuutissa.";
+
+"Workouts for Women: 2" = "Naisten harjoittelu: 2";
+"Lose Fat" = "Menettää rasvaa";
+"No time to make it to the gym or don't have a gym membership? These 2 bodyweight circuits are exactly what you're looking for to help you get in shape!" = "Ei ole aikaa päästä kuntosalille tai sinulla ei ole kuntosalin jäsenyyttä? Nämä 2 kehonpainepiiriä ovat juuri sitä, mitä etsit auttamaan sinua kunnossa!";
+
+"6 Week Fat Loss Workout" = "6 viikon rasvanpudotusharjoitus";
+"Lose Fat" = "Menettää rasvaa";
+"Kick off your summer shredding with a quick and intense program. This 6 week fat loss workout supersets resistance training with cardio for maximum workout intensity." = "Käynnistä kesän murskauksesi nopealla ja intensiivisellä ohjelmalla. Tämä 6 viikon rasvanpudotusharjoittelu korvaa sydämen kestävyysharjoituksen maksimaalisen harjoitteluintensiteetin saavuttamiseksi.";
+
+"8 Week Power Workout" = "8 viikon tehoharjoittelu";
+"Increase Strength" = "Lisää voimaa";
+"Forget what you know about the squat, bench press, and deadlift. There's 3 new big lifts in town to help you transform your body and increase your strength." = "Unohda, mitä tiedät kyykkystä, penkkipunnerruksesta ja kuorman nostosta. Kaupungissa on 3 uutta isoa hissiä, jotka auttavat sinua muuttamaan kehoasi ja lisäämään voimaa.";
+
+"Workout Programs" = "Harjoitteluohjelmat";
+
+
+// MealsViewController.swift
+
+"7-Day Mediterranean Meal Plan" = "7 päivän Välimeren ateriasuunnitelma";
+"1,200 Calories" = "1,200 kaloria ";
+"Recognized as one of the healthiest and most delicious ways to eat, the Mediterranean diet is easy to follow with this 7-day meal plan." = "Välimeren ruokavalio on tunnustettu yhdeksi terveellisimmistä ja herkullisimmista ruokailutavoista tällä 7 päivän ateriasuunnitelmalla.";
+
+"3-Day Diabetes Meal Plan" = "3 päivän diabeteksen ateriasuunnitelma";
+"1,300 Calories" = "1,300 kaloria ";
+"Quick and delicious spring meals to help take the guesswork out of healthy eating for diabetes." = "Nopeat ja herkulliset kevätateriat auttavat arvaamaan terveellisen ruokavalion diabeteksesta.";
+
+"Weight-Loss Meal Plan" = "Painonlasku Ateriaohjelma";
+"The season's most delicious foods come together for a week of healthy meals, snacks and meal-prep ideas, geared to help you jump-start a healthy weight loss of 1 to 2 pounds per week." = "Kauden herkullisimmat ruoat kokoontuvat viikoksi terveellisiä aterioita, välipaloja ja ateriavalmisteluideoita, jotka auttavat sinua aloittamaan terveellisen painonpudotuksen 1-2 kiloa viikossa.";
+
+"7-Day Vegetarian Meal Plan" = "7 päivän kasvisateriaohjelma";
+"Whether you already follow a vegetarian diet or are just looking to go meatless sometimes, this 7-day vegetarian meal plan makes it easy to eat meat-free and lose weight. Eating more plant-based foods is a great way to boost your health. A vegetarian diet has been shown to reduce your risk of heart disease, type-2 diabetes and even certain types of cancer." = "Olitpa jo noudattamassa kasvisruokavaliota tai haluatko vain mennä lihattomaksi joskus, tämän 7 päivän kasvisateriasuunnitelman avulla on helppo syödä lihattomasti ja laihtua. Lisää kasvipohjaisia ruokia on hyvä tapa parantaa terveyttäsi Kasvisruokavalion on osoitettu vähentävän sydänsairauksien, tyypin 2 diabeteksen ja jopa tietyntyyppisten syöpien riskiä. ";
+
+"7-Day Anti-Inflammatory Diet Plan" = "7 päivän anti-inflammatorinen ruokavalio";
+"In this healthy 1,200-calorie meal plan, the principles of an anti-inflammatory diet come together for a week of delicious, wholesome meals and snacks, plus meal-prep tips to set you up for a successful week ahead." = "Tässä terveellisessä 1200 kalori-ateriasuunnitelmassa tulehdusta ehkäisevän ruokavalion periaatteet yhdistyvät viikoksi herkullisia, terveellisiä aterioita ja välipaloja sekä aterianvalmistusvinkkejä, joiden avulla voit luoda menestyvän viikon eteenpäin.";
+
+"Clean-Eating Meal Plan for Spring" = "Puhtaan syömisen ateriasuunnitelma keväälle";
+"1,100 Calories" = "1,100 kaloria ";
+"Eating clean is how we do things here at EatingWell—it's a simple, healthy approach to eating that focuses on foods that do the body good, while limiting the not-so-helpful items. In this clean-eating meal plan for spring, you'll find nutrient-rich foods like fruits and veggies, lean protein, whole grains and healthy fats and limited amounts of processed foods, refined grains, salt, added sugar and alcohol. " = "Syöminen puhtaana on se, miten teemme asioita täällä EatingWellissä - se on yksinkertainen, terveellinen lähestymistapa syömiseen, joka keskittyy elintarvikkeisiin, jotka tekevät kehosta hyvää, samalla kun rajoitetaan ei-niin hyödyllisiä ruokia. Tässä kevään kevyessä ruokasuunnitelmassa löydät runsaasti ravintoaineita sisältäviä ruokia, kuten hedelmät ja vihannekset, vähärasvaista proteiinia, täysjyvätuotteita ja terveellisiä rasvoja sekä rajalliset määrät jalostettuja elintarvikkeita, puhdistettuja jyviä, suolaa, lisättyä sokeria ja alkoholia. ";
+
+"Meals" = "Ateriat";
+
+
+// ProfileViewController.swift
+
+"Logout" = "Kirjautua ulos";

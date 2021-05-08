@@ -1,0 +1,11 @@
+framework module MOPRIMTmdSdk {
+  umbrella header "MOPRIMTmdSdk.h"
+
+  export *
+  module * { export * }
+}
+
+module MOPRIMTmdSdk.Swift {
+    header "MOPRIMTmdSdk-Swift.h"
+    requires objc
+}

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "61F29DC2-EEA8-4354-AE86-149E9B4C9075"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5D338CB-F6F5-42B4-92F4-ED5E37E872D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GetFit/View/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "loginTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5D338CB-F6F5-42B4-92F4-ED5E37E872D1 - c776a710335b50d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GetFit.LoginViewController.checkuserInfo() -&gt; ()"
+                  moduleName = "GetFit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/4th%20Period/GetFit/GetFit/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "273">
+               </Location>
+               <Location
+                  uuid = "A5D338CB-F6F5-42B4-92F4-ED5E37E872D1 - 6a07c87d703f71b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Optional&lt;Swift.String&gt; in GetFit.LoginViewController.checkuserInfo() -&gt; ()"
+                  moduleName = "GetFit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/4th%20Period/GetFit/GetFit/View/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A424198D-DC9C-4622-B929-F96C2D6B2DE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GetFit/View/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "loginTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C882F972-7B7F-4EA0-98E0-174A630B0DE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GetFit/View/FeedViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "FeedViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C882F972-7B7F-4EA0-98E0-174A630B0DE2 - b6c590223ee86852"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GetFit.FeedViewController.yearButtonOutlet.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "GetFit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/4th%20Period/gitfit/GetFit/View/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C882F972-7B7F-4EA0-98E0-174A630B0DE2 - 9356385abd42185e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GetFit.FeedViewController.yearButtonOutlet.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "GetFit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/4th%20Period/gitfit/GetFit/View/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "C882F972-7B7F-4EA0-98E0-174A630B0DE2 - cd815e17b892070b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GetFit.FeedViewController.yearButtonOutlet.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "GetFit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/4th%20Period/gitfit/GetFit/View/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "C882F972-7B7F-4EA0-98E0-174A630B0DE2 - 590f6cb1d8514721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GetFit.FeedViewController.yearButtonOutlet.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "GetFit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/4th%20Period/gitfit/GetFit/View/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "C882F972-7B7F-4EA0-98E0-174A630B0DE2 - e8305794cae15a02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GetFit.FeedViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; GetFit.FeedViewController"
+                  moduleName = "GetFit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/4th%20Period/gitfit/GetFit/View/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "C882F972-7B7F-4EA0-98E0-174A630B0DE2 - e01be0bbbe36a9b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GetFit.FeedViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GetFit.FeedViewController&gt;"
+                  moduleName = "GetFit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Documents/4th%20Period/gitfit/GetFit/View/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "773">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

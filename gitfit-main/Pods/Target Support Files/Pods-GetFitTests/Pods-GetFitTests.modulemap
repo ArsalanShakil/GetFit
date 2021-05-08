@@ -1,0 +1,6 @@
+framework module Pods_GetFitTests {
+  umbrella header "Pods-GetFitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

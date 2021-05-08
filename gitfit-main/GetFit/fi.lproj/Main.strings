@@ -1,0 +1,123 @@
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "0Xk-Om-48W"; */
+"0Xk-Om-48W.text" = "Error";
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "1Bb-BF-HcM"; */
+"1Bb-BF-HcM.normalTitle" = "Signup";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "5cV-Md-Tiz"; */
+"5cV-Md-Tiz.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Login to GetFit"; ObjectID = "7b2-Ya-KaC"; */
+"7b2-Ya-KaC.text" = "Login to GetFit";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "8h9-al-2gJ"; */
+"8h9-al-2gJ.text" = "Or";
+
+/* Class = "UILabel"; text = "SignUp to GetFit"; ObjectID = "ADs-bF-Nqr"; */
+"ADs-bF-Nqr.text" = "SignUp to GetFit";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Cxu-fY-zAD"; */
+"Cxu-fY-zAD.text" = "Email";
+
+/* Class = "UILabel"; text = "GetFit"; ObjectID = "HIb-Io-iXQ"; */
+"HIb-Io-iXQ.text" = "GetFit";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "HIw-d4-VBu"; */
+"HIw-d4-VBu.title" = "Profile";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "Iqw-Rb-98y"; */
+"Iqw-Rb-98y.text" = "1000";
+
+/* Class = "UILabel"; text = "Weekly activity"; ObjectID = "Q3l-zF-uky"; */
+"Q3l-zF-uky.text" = "Weekly activity";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "QdH-2c-qxe"; */
+"QdH-2c-qxe.text" = "1000";
+
+/* Class = "UIButton"; normalTitle = "start tracking"; ObjectID = "RcC-3X-81w"; */
+"RcC-3X-81w.normalTitle" = "start tracking";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "Rv0-vx-vw4"; */
+"Rv0-vx-vw4.text" = "Error";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "V1e-Fu-r1n"; */
+"V1e-Fu-r1n.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "WLI-ii-u9w"; */
+"WLI-ii-u9w.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "1/2"; ObjectID = "XtH-lp-Mr5"; */
+"XtH-lp-Mr5.text" = "1/2";
+
+/* Class = "UITabBarItem"; title = "Meals"; ObjectID = "Y4a-he-oF3"; */
+"Y4a-he-oF3.title" = "Meals";
+
+/* Class = "UIButton"; normalTitle = "Signup?"; ObjectID = "aF1-4O-4Do"; */
+"aF1-4O-4Do.normalTitle" = "Signup?";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "bCN-pZ-nmh"; */
+"bCN-pZ-nmh.text" = "Or";
+
+/* Class = "UITabBarItem"; title = "Workout"; ObjectID = "cE5-MP-WVw"; */
+"cE5-MP-WVw.title" = "Workout";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "cqU-2m-Js1"; */
+"cqU-2m-Js1.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "dH9-da-l30"; */
+"dH9-da-l30.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "eDu-Op-fIm"; */
+"eDu-Op-fIm.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "gIX-Hn-ONV"; */
+"gIX-Hn-ONV.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Your Activity"; ObjectID = "hft-MB-HcQ"; */
+"hft-MB-HcQ.text" = "Your Activity";
+
+/* Class = "UITabBarItem"; title = "Feed"; ObjectID = "ji9-Uf-ehO"; */
+"ji9-Uf-ehO.title" = "Feed";
+
+/* Class = "UIButton"; normalTitle = "Login ?"; ObjectID = "jxt-Nc-hjf"; */
+"jxt-Nc-hjf.normalTitle" = "Login ?";
+
+/* Class = "UILabel"; text = "Distance:"; ObjectID = "kfq-zN-ST4"; */
+"kfq-zN-ST4.text" = "Distance:";
+
+/* Class = "UILabel"; text = "Steps:"; ObjectID = "kv7-FM-x8z"; */
+"kv7-FM-x8z.text" = "Steps:";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "lfa-TM-8dF"; */
+"lfa-TM-8dF.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "llX-KV-Jxf"; */
+"llX-KV-Jxf.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "mYB-I9-Fap"; */
+"mYB-I9-Fap.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "GetFit"; ObjectID = "nXE-fM-OwC"; */
+"nXE-fM-OwC.text" = "GetFit";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "nl3-ia-0Uv"; */
+"nl3-ia-0Uv.text" = "Last Name";
+
+/* Class = "UIButton"; normalTitle = "workout"; ObjectID = "pny-VS-92n"; */
+"pny-VS-92n.normalTitle" = "workout";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "sQo-ze-L46"; */
+"sQo-ze-L46.text" = "First Name";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "wzf-hz-zPb"; */
+"wzf-hz-zPb.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "start tracking"; ObjectID = "xxW-RD-w2y"; */
+"xxW-RD-w2y.normalTitle" = "start tracking";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ypj-ft-rFh"; */
+"ypj-ft-rFh.text" = "0";
+
+/* Class = "UILabel"; text = "CO2 emissions:"; ObjectID = "zNb-Ox-xOv"; */
+"zNb-Ox-xOv.text" = "CO2 emissions:";

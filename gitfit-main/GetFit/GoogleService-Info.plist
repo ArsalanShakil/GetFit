@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>759783540054-n531phreuupci83t3vcvabqcd9d9fael.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.759783540054-n531phreuupci83t3vcvabqcd9d9fael</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9tZUIadGggibqdaTu2MiNd9X2xbTyl74</string>
+	<key>GCM_SENDER_ID</key>
+	<string>759783540054</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fi.metropolia.arsalans.GetFit</string>
+	<key>PROJECT_ID</key>
+	<string>gitfit-f318e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gitfit-f318e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:759783540054:ios:e3c65f3054ae36a4bb42f7</string>
+	<key>DATABASE_URL</key>
+	<string>https://gitfit-f318e-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
