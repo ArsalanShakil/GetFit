@@ -1,5 +1,7 @@
 # GetFit
 
+https://www.canva.com/design/DAEdnOtMA2A/view
+
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/40695548/117286452-e4514180-ae71-11eb-8a9b-ba8a00d0ba10.gif)
 
 ## Code Overview
