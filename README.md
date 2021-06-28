@@ -1,7 +1,5 @@
 # GetFit
 
-[GetFit Final Presentation](https://www.canva.com/design/DAEdnOtMA2A/view?utm_content=DAEdnOtMA2A&utm_campaign=designshare&utm_medium=embeds&utm_source=link) by Arsalan Shakil
-
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/40695548/117286452-e4514180-ae71-11eb-8a9b-ba8a00d0ba10.gif)
 
