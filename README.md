@@ -1,13 +1,21 @@
 # GetFit
+### We created an app that will assist users in leading a healthier lifestyle by tracking their eating and exercise routines. so that they will remain safe, fit, and energized during the day.
 
+## Features
+##### - Location tracking and Maps to keep yourself updated with your whereabouts.
+##### - Browse through our meal plans.
+##### - Easy-to-follow recipes with clear nutritional info.
+##### - Browse through our workout plans.
+##### - Choose a category that best suits the workout you're searching for.
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/40695548/117286452-e4514180-ae71-11eb-8a9b-ba8a00d0ba10.gif)
+## Technologies used
+##### - Swift
+##### - HereMaps SDK
+##### - Moprim SDK
+##### - Firebase Database for profile creation and user authentication
+##### - CardSliders for an enchanced user exprience
+##### - Localization
 
-## Code Overview
- [![Code Overview Badge](https://github.com/ArsalanShakil/GetFit/blob/main/ezgif.com-gif-maker.gif)](#)
-
-## Unit and UI test Overview
- [![Code Overview Badge](https://github.com/ArsalanShakil/GetFit/blob/main/ezgif.com-gif-maker%20(1).gif)](#)
  
  ## App Overview
 ![App Overview Badge](https://user-images.githubusercontent.com/40695548/117280029-df3cc400-ae6a-11eb-8301-3cc36a42bcca.gif)
