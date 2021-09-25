@@ -12,6 +12,7 @@
 ##### - Swift
 ##### - HereMaps SDK
 ##### - Moprim SDK
+##### - AWS
 ##### - Firebase Database for profile creation and user authentication
 ##### - CardSliders for an enchanced user exprience
 ##### - Localization
