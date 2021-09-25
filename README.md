@@ -1,5 +1,5 @@
 # GetFit
-### We created an app that will assist users in leading a healthier lifestyle by tracking their eating and exercise routines. so that they will remain safe, fit, and energized during the day.
+### An app that will assist users in leading a healthier lifestyle by tracking their eating and exercise routines, so that they will remain healty, fit, and energized during the day.
 
 ## Features
 ##### - Location tracking and Maps to keep yourself updated with your whereabouts.
