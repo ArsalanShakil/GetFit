@@ -1,14 +1,18 @@
 # GetFit
-### An app that will assist users in leading a healthier lifestyle by tracking their eating and exercise routines, so that they will remain healty, fit, and energized during the day.
+### An app that assists users in leading a healthier life with the help of mindful eating and exercise routines.
+<br/>
 
 ## Features
-##### - Location tracking and Maps to keep yourself updated with your whereabouts.
 ##### - Browse through our meal plans.
 ##### - Easy-to-follow recipes with clear nutritional info.
 ##### - Browse through our workout plans.
+##### - Progress tracking with the help of steps counter.
+##### - Location and maps to assist you in your outdoors physical activities
 ##### - Choose a category that best suits the workout you're searching for.
 
-## Technologies used
+<br/>
+
+## Techn Used
 ##### - Swift
 ##### - HereMaps SDK
 ##### - Moprim SDK
@@ -17,7 +21,8 @@
 ##### - CardSliders for an enchanced user exprience
 ##### - Localization
 
- 
+ <br/>
+
  ## App Overview
 ![App Overview Badge](https://user-images.githubusercontent.com/40695548/117280029-df3cc400-ae6a-11eb-8301-3cc36a42bcca.gif)
 ![App Overview Badge](https://user-images.githubusercontent.com/40695548/117280319-275be680-ae6b-11eb-81a2-e18aebe2e958.gif)
